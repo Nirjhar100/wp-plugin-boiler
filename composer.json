@@ -1,0 +1,11 @@
+{
+    "name": "nirjhar/l2it-player",
+    "description": "Starter listen2it plugin",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {}, 
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
